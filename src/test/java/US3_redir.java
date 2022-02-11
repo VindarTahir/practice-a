@@ -1,6 +1,4 @@
-package redir;
-
-public class HowToReverseAString {
+public class US3_redir {
 
     public static void main(String[] args) {
 
@@ -15,6 +13,7 @@ public class HowToReverseAString {
 
         System.out.println("This is the original word: " + str);
         System.out.println("This is the reversed word: " + reverse);
+
 
     }
 
