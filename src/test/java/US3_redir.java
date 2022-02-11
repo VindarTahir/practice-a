@@ -1,6 +1,4 @@
-package redir;
-
-public class HowToReverseAString {
+public class US3_redir {
 
     public static void main(String[] args) {
 
