@@ -1,6 +1,6 @@
 package redir;
 
-public class ReverseString {
+public class HowToReverseAString {
 
     public static void main(String[] args) {
 
