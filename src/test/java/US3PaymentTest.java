@@ -1,5 +1,7 @@
 public class US3PaymentTest {
 
-    //Adalats code
+//    Gulya's code
 
 }
+
+
